@@ -1,0 +1,1 @@
+$('body').append('<h2>Hi From jQuery!</h2>');
